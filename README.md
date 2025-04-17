@@ -30,19 +30,19 @@ JavaScript (ES6+)
 
 ## 📁 Project Setup
 
-1.Clone the repository 
+## 1.Clone the repository 
 
 https://github.com/Manoj-Gmk/react-transition-hook.git
 
-2.Navigate to the project directory
+## 2.Navigate to the project directory
 
 cd transitionhook
 
-3.Install dependencies for React app
+## 3.Install dependencies for React app
 
 npm install
 
-Start the React development server
+## 4.Start the React development server
 
 npm run dev
 
